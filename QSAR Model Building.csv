@@ -1,0 +1,21 @@
+﻿#,Drug Name,SMILES,Activity (µM),Activity Type,pIC₅₀
+1,Remdesivir,CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@](C#N)([C@H](O)[C@@H]1O)C2=CC=C3N2N=CN=C3N)OC4=CC=CC=C4,0.77,EC₅₀,6.11
+2,Molnupiravir,CC(C)C(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cc(c[nH]1)C(=O)N,0.3,IC₅₀,6.52
+3,Nirmatrelvir,CC1=C(C(=O)NC(CC2=CC=CC=C2)C(=O)NC(C(C)C)C(=O)NC3CC3)C(C)(C)CN1C(=O)C(NC(=O)OC)C(C)(C)C,0.04,IC₅₀,7.4
+4,Ritonavir,CC(C)c1nc(CN(C)C(=O)NC(C(=O)N(C)Cc2ccccc2)CC(C)C)cs1,0.77,IC₅₀,6.11
+5,Lopinavir,CC(C)C1=CC(=O)NC(C(=O)NC(CC2=CC=CC=C2)C(C)C)C(=O)NC3CC3,8,EC₅₀,5.1
+6,Darunavir,CC(C)CN(CC(C)C)C(=O)NC(C(=O)NC(C)(C)C)C(CC1=CC=CC=C1)NC(=O)C(C)NC(=O)OC,2.4,IC₅₀,5.62
+7,Favipiravir,NC(=O)C1=NC=CN1C(F)(F)F,61.9,EC₅₀,4.21
+8,Ribavirin,C1=NC(=C(C(=N1)N)N)COC2C(C(C(C(O2)CO)O)O)O,109.5,EC₅₀,3.96
+9,Umifenovir,CCOC(=O)c1c(CSc2ccccc2)n(c3ccccc3)c2cc(Br)ccc12,4.1,EC₅₀,5.39
+10,Sofosbuvir,CCC(CC)COC(=O)[C@H](C)NP(=O)(OC[C@H]1O[C@](C#N)([C@H](O)[C@@H]1O)c2ccc3c(c2)nc[nH]3)Oc4ccccc4,6.2,EC₅₀,5.21
+11,Tenofovir disoproxil fumarate,CCOC(=O)COC(COC(=O)OC)COP(=O)(O)OCC1OC(CO)C(O)C1O,1.6,EC₅₀,5.8
+12,Hydroxychloroquine,CCN(CC)CCCC(C)NC1=C2C=CC=CC2=NC=C1,0.72,EC₅₀,6.14
+13,Ivermectin,CC1CC2C(C(C1(C)O)C(C(C2C3CCC4C3CCC5=CC(=O)CCC45C)O)OC)OC6C(C(C(C(O6)C)O)O)O,2,EC₅₀,5.7
+14,Azithromycin,CC1C(C(C(N(C1=O)C(C)C)C2=CC=CC=C2)O)OC(=O)C(C)C,20,EC₅₀,4.7
+15,Manidipine,CCOC(=O)C1=C(C=C(C=C1OC)Cl)C(=O)OC(CN2CCNCC2)C3=CC=CC=C3,4.8,EC₅₀,5.32
+16,Halofantrine,CC(C)(C)CN(CC(C)(C)C)C1=CC=CC=C1,5.2,EC₅₀,5.28
+17,Nelfinavir,CC(C)CNC(=O)[C@H](Cc1ccccc1)[C@@H](C)C(=O)N[C@H](C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C)C,1.1,IC₅₀,5.96
+18,Simeprevir,CC1=CC2=C(C=C1)N=C(N2)C3=CC=CC=C3Cl,4.2,EC₅₀,5.38
+19,MDL-28170,CC1=CC(=O)C=CC1=O,3.5,EC₅₀,5.46
+20,ONO-5334,COC1=CC=C(C=C1)C(=O)NC2=CC=C(C=C2)C(=O)N3CCCCC3,6.1,EC₅₀,5.21
